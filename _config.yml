@@ -1,7 +1,8 @@
 title: Joaquin Matres
 author: joaquin
 email: github@jmatres.com
-description: Joaquin
+description: > # this means to ignore newlines until "twitter_username:"
+  Hardware engineer with a passion for software
 
 # social links
 # twitter_username: jekyllrb
@@ -22,6 +23,7 @@ github_username: joamatab
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
