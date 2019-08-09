@@ -1,8 +1,8 @@
 title: Joaquin Matres
 author: joaquin
-email: github@jmatres.com
+email: jmatres@jmatres.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Hardware engineer with a passion for software
+  Using technology to create a better world.
 
 # social links
 # twitter_username: jekyllrb
@@ -12,7 +12,7 @@ github_username: joamatab
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
- linkedin_username: jmatres
+# linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: joamatab
 # googleplus_username: +jekyll
